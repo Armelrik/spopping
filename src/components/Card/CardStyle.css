@@ -24,6 +24,7 @@
 .mainImg{
     z-index: 1;
 }
+
 .mainImg:hover{
     z-index: -1;
 }
